@@ -1,1 +1,1 @@
-#Future site of my site
+<head> Future site of my site </head>
